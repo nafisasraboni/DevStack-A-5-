@@ -8,7 +8,9 @@ interface TechProps {
 const Technology = ({ techPromise }: TechProps) => {
   const technologies = use(techPromise);
   console.log(technologies);
-  return <div></div>;
+  return <div>
+    
+  </div>;
 };
 
 export default Technology;
