@@ -1,6 +1,6 @@
-# Dev Stack Builder
+# DevStack 
 
-Dev Stack Builder is an interactive web application designed for developers to explore modern frontend, backend, database, and DevOps technologies, compare them side-by-side, and build their custom tech stack seamlessly.
+DevStack is an interactive web application designed for developers to explore modern frontend, backend, database, and DevOps technologies, compare them side-by-side, and build their custom tech stack seamlessly.
 
 ## 🛠️ Technologies Used
 - **Frontend Framework:** React.js (Vite)
