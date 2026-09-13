@@ -1,4 +1,3 @@
-import React from "react";
 import Logo from "../assets/logo-text.png";
 import { GiHamburgerMenu } from "react-icons/gi";
 
