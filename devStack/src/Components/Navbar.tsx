@@ -26,7 +26,7 @@ const Navbar = () => {
         </div>
 
         {/* Center (Mobile) / Left (Desktop): Brand Logo */}
-        <div className="flex items-center justify-center lg:justify-start">
+        <div className="flex items-center justify-center lg:justify-center">
           <img src={Logo} alt="Dev Stack Logo" className="h-8 w-auto cursor-pointer" />
         </div>
 

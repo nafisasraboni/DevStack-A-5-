@@ -4,7 +4,7 @@ import bannerImg from "../assets/banner-stack.png";
 const Banner = () => {
   return (
     <section className="bg-white py-10 md:py-20 px-4 sm:px-8">
-      <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 md:gap-12 text-center md:text-left">
+      <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 md:gap-12 text-center md:text-left">
         <div className="w-full md:w-1/2 flex flex-col items-center md:items-start">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight text-[#101828]">
             Build Your Ideal <br className="hidden sm:inline" />
