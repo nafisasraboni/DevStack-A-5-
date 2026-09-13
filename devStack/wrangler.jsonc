@@ -1,0 +1,7 @@
+{
+  "name": "devstack-a-51",
+  "compatibility_date": "2026-09-13",
+  "assets": {
+    "directory": "./dist"
+  }
+}
