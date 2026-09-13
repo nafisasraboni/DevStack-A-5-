@@ -4,7 +4,7 @@ export interface TechType{
     "category": string,
     "description": string,
     "icon": string,
-    "rating": GLfloat,
+    "rating": number,
     "difficulty": string,
     "badge": string
   }
