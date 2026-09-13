@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar"
 import { ImSpinner3 } from "react-icons/im";
 import Technology from "./Components/Technologies/technology";
 import type { TechType } from "./types/type";
+import Footer from "./Components/Footer";
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Suspense fallback={<p>Loading..<ImSpinner3 /></p>}>
       <Technology techPromise={techPromise()}></Technology>
       </Suspense>
+      <Footer></Footer>
     </>
   )
 }
